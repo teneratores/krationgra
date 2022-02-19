@@ -1,0 +1,38 @@
+﻿{
+    "name": "hctx3",
+    "description": "u",
+    "keywords": ["xrr"],
+    "env": {
+        "AA": {
+            "description": "cc",
+            "value": "x"
+        },
+        "AUUID": {
+            "description": "UU",
+            "value": "9ced9dba-7331-4f80-b562-7b926c4e6f8d"
+        },
+        "CADDYIndexPage": {
+            "description": "CADDY显示：https://github.com/teneratores/krationgra/master/etc/CADDYIndexPage.md",
+            "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
+        },
+        "CONFIGCADDY": {
+            "description": "自定义",
+            "value": "https://raw.githubusercontent.com/teneratores/krationgra/master/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "自定义",
+            "value": "https://raw.githubusercontent.com/teneratores/krationgra/master/etc/xray.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SS",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "自定义",
+            "value": "https://raw.githubusercontent.com/teneratores/krationgra/master/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/teneratores/krationgra",
+    "repository": "https://github.com/teneratores/krationgra",
+    "stack": "container"
+}
